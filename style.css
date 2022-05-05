@@ -41,3 +41,7 @@ main {
 .requisito-9 {
   width: 15%;
 }
+
+#nomes {
+  flex-direction: row;
+}
