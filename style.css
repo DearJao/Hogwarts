@@ -39,5 +39,9 @@ main {
 }
 
 .requisito-9 {
-  width: 15%;
+  width: 100px;
+}
+
+#mail-house {
+    flex-direction: row;
 }
