@@ -10,8 +10,20 @@
 .trybewarts-login {
   display: flex;
   height: 25px;
+  padding: 10px;
 }
 
 .trybewarts-header-logo {
   width: 5%;
+  padding: 10px;
+}
+
+#img-trybewarts {
+    display: flex;
+    justify-content: flex-end;
+}
+
+#trybewarts-forms-logo {
+  height: 500px;
+  display: flex;
 }
