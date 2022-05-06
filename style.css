@@ -36,6 +36,8 @@ main {
   display: flex;
   flex-direction: column;
   width: 675px;
+  height: 900px;
+  background-color: gray;
 }
 
 .requisito-9 {
@@ -44,4 +46,14 @@ main {
 
 #nomes {
   flex-direction: row;
+}
+
+#families-names {
+  display: flex;
+  flex-direction: column;
+}
+
+#subjects {
+  display: flex;
+  flex-direction: column;
 }
