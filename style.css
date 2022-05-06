@@ -30,7 +30,7 @@
 
 main {
   display: flex;
-  justify-content: space-around
+  justify-content: space-around;
 }
 
 #evaluation-form {
@@ -41,8 +41,8 @@ main {
 }
 
 .mail-house {
-    display: flex;
-    flex-direction: row;
+  display: flex;
+  flex-direction: row;
 }
 
 .nomes {
@@ -97,8 +97,7 @@ main {
 
 #teste3 {
   display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
+  flex-flow: row wrap;
   width: 300px;
   margin-top: 20px;
 }
