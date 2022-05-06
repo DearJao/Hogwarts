@@ -1,5 +1,5 @@
 const recoverButton1 = document.getElementById('button-login');
-const recoverInputEmail = document.querySelector('#input-email');
+const recoverInputEmail = document.querySelector('#input-email2');
 const recoverInputPass = document.querySelector('#input-pass');
 
 function login() {
