@@ -46,8 +46,24 @@ main {
 
 .nomes {
   display: flex;
+  margin-top: 10px;
 }
 
+
 .nomes1 {
-  display: flex;
+  display: inline-flex;
+}
+
+#input-lastname {
+  margin-left: 10px;
+}
+
+#label {
+  margin-left: 10px;
+  margin-top: 5px;
+}
+
+#house {
+  width: 145px;
+  margin-top: 5px;
 }
