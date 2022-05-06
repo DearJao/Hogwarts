@@ -30,6 +30,7 @@
 
 main {
   display: flex;
+  justify-content: space-around
 }
 
 #evaluation-form {
@@ -38,10 +39,15 @@ main {
   width: 675px;
 }
 
-.requisito-9 {
-  width: 100px;
+.mail-house {
+    display: flex;
+    flex-direction: row;
 }
 
-#mail-house {
-    flex-direction: row;
+.nomes {
+  display: flex;
+}
+
+.nomes1 {
+  display: flex;
 }
